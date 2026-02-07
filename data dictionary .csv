@@ -1,0 +1,19 @@
+DATA DICTIONARY,
+,
+VARIABLE,EXPLANATION
+Customer Lifetime Value,Estimated value of a customer over their lifetime with the company
+Response,Customer's response to whether they are willing to get another insurance contract
+Coverage,"Type of coverage purchased (e.g., Basic, Extended, Premium)"
+Education,Highest level of education achieved by the customer
+Employment Status,"Employment status of the customer (e.g., Employed, Unemployed)"
+Gender,"Gender of the customer (e.g., Male,Female,others)"
+Income,Annual income of the customer
+Location Code,"Code representing the customer's location type (e.g., Suburban, Rural)"
+Marital Status,"Marital status of the customer (e.g., Single, Married)"
+Monthly Premium Auto,Monthly premium paid for auto insurance
+Months Since Last Claim,Number of months since the customer's last insurance claim
+Months Since Policy Inception,Number of months since the policy was first initiated
+Number of Open Complaints,Number of open complaints made by the customer
+Number of Policies,Number of policies held by the customer
+Total Claim Amount,Total amount claimed by the customer
+Vehicle Size,"Size of the vehicle (e.g., Small, Medsize, Large)"
